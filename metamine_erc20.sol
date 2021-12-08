@@ -1,7 +1,3 @@
-/**
- *Submitted for verification at Etherscan.io on 2021-10-02
-*/
-
 pragma solidity 0.5.16;
 
 interface IERC20 {
